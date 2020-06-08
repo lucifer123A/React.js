@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React from 'react';
 import {Card, CardImg, CardText, CardBody, CardTitle, Breadcrumb,BreadcrumbItem,
         Button, Modal, ModalHeader, ModalBody, Label, Row, Col} from 'reactstrap';
 import {Control, LocalForm, Errors} from 'react-redux-form';
